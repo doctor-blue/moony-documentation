@@ -1,6 +1,6 @@
 # Some useful information if you are a developer 
 
-## (*) Vietnamease [English below](#English)
+## (*) Vietnamease [English below](#-english)
 - Những thông tin dưới đây được viết bởi Nguyễn Văn Tân - Người khởi xướng và là người maintain hiện tại cho app. Nếu các bạn có bất kì thắc mắc và muốn liên hệ với mình các bạn có thể tìm thấy thông tin của mình tại [đây](https://github.com/doctor-blue).
 ### Tại sao Moony là một open source app?
 - Moony như bạn biết là một ứng dụng giúp quản lý tài chính cá nhân được phát triển nhằm giúp mọi người có thể quản lý tài chính cá nhân của bản thân cũng như gia đình nhỏ của mình một cách hiệu quả nhất có thể.
